@@ -1,0 +1,180 @@
+{
+    "menu_inicio": [
+        {
+            "nombre": "titulo",
+            "x": 300,
+            "y": 10,
+            "largo": 300,
+            "ancho": 600,
+            "path_imagen":"./src/Resources/Images/Menu/Titulo.png"
+        },
+        {
+            "nombre": "iniciar",
+            "x": 500,
+            "y": 330,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/iniciar.png"
+        },
+        {
+            "nombre": "ajustes",
+            "x": 500,
+            "y": 410,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/Ajustes.png"
+        },
+        {
+            "nombre": "salir",
+            "x": 500,
+            "y": 500,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/Salir.png"
+        },
+        {
+            "nombre": "stats",
+            "x": 20,
+            "y": 600,
+            "largo": 80,
+            "ancho": 100,
+            "path_imagen":"./src/Resources/Images/Menu/Stats.png"
+        }
+    ],
+    "menu_ajustes":[
+        {
+            "nombre": "fondo_ajustes",
+            "x": 220,
+            "y": 30,
+            "largo": 650,
+            "ancho": 750,
+            "path_imagen":"./src/Resources/Images/Menu/menuAjustes.png"
+        },
+        {
+            "nombre": "izquierda_musica",
+            "x": 550,
+            "y": 220,
+            "largo": 50,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Menu/izquierda.png"
+        },
+        {
+            "nombre": "derecha_musica",
+            "x": 750,
+            "y": 220,
+            "largo": 50,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Menu/derecha.png"
+        },
+        {
+            "nombre": "izquierda_sonido",
+            "x": 550,
+            "y": 300,
+            "largo": 50,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Menu/izquierda.png"
+        },
+        {
+            "nombre": "derecha_sonido",
+            "x": 750,
+            "y": 300,
+            "largo": 50,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Menu/derecha.png"
+        },
+        {
+            "nombre": "facil",
+            "x": 300,
+            "y": 450,
+            "largo": 50,
+            "ancho": 180,
+            "path_imagen":"./src/Resources/Images/Menu/dificultad.png"
+        },
+        {
+            "nombre": "media",
+            "x": 500,
+            "y": 450,
+            "largo": 50,
+            "ancho": 180,
+            "path_imagen":"./src/Resources/Images/Menu/dificultad.png"
+        },
+        {
+            "nombre": "dificil",
+            "x": 700,
+            "y": 450,
+            "largo": 50,
+            "ancho": 180,
+            "path_imagen":"./src/Resources/Images/Menu/dificultad.png"
+        },
+        {
+            "nombre": "volver",
+            "x": 500,
+            "y": 560,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/volver.png"
+        }
+    ],
+    "menu_stats":[
+        {
+            "nombre": "fondo_stats",
+            "x": 300,
+            "y": 30,
+            "largo": 650,
+            "ancho": 600,
+            "path_imagen":"./src/Resources/Images/Menu/menuStats.png"
+        },
+        {
+            "nombre": "volver",
+            "x": 500,
+            "y": 560,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/volver.png"
+        }
+    ],
+    "menu_pausa":[
+        {
+            "nombre": "fondo_pausa",
+            "x": 400,
+            "y": 30,
+            "largo": 450,
+            "ancho": 400,
+            "path_imagen":"./src/Resources/Images/Interface level/interfaz_nivel.png"
+        },
+        {
+            "nombre": "jugar",
+            "x": 500,
+            "y": 200,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/jugar.png"
+        },
+        {
+            "nombre": "volver",
+            "x": 500,
+            "y": 300,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/volver.png"
+        }
+    ],
+    "menu_final":[
+        {
+            "nombre": "jugar",
+            "x": 660,
+            "y": 400,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/jugar.png"
+        },
+        {
+            "nombre": "volver",
+            "x": 360,
+            "y": 400,
+            "largo": 50,
+            "ancho": 200,
+            "path_imagen":"./src/Resources/Images/Menu/volver.png"
+        }
+    ]
+}

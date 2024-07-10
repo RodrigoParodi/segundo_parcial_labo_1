@@ -1,0 +1,269 @@
+{
+    "superficies": [
+        {
+            "nombre": "piso",
+            "x": 0,
+            "y": 600,
+            "largo": 100,
+            "ancho": 1200,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "puerta",
+            "x": 750,
+            "y": 450,
+            "largo": 150,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Surface/puerta.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x":300,
+            "y": 500,
+            "largo": 50,
+            "ancho": 300,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 470,
+            "y": 400,
+            "largo": 50,
+            "ancho": 620,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 0,
+            "y": 300,
+            "largo": 50,
+            "ancho": 400,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 550,
+            "y": 140,
+            "largo": 500,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 170,
+            "y": 100,
+            "largo": 50,
+            "ancho": 430,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 750,
+            "y": 0,
+            "largo": 300,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 970,
+            "y": 110,
+            "largo": 300,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": -30,
+            "y": 0,
+            "largo": 700,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 1150,
+            "y": 0,
+            "largo": 700,
+            "ancho": 50,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 0,
+            "y": -20,
+            "largo": 50,
+            "ancho": 1200,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        },
+        {
+            "nombre": "plataforma",
+            "x": 1080,
+            "y": 200,
+            "largo": 50,
+            "ancho": 100,
+            "path_imagen":"./src/Resources/Images/Surface/piso.png"
+        }
+    ],
+    "botiquin": [
+        {
+            "nombre": "botiquin",
+            "x": 1090,
+            "y": 140,
+            "largo": 40,
+            "ancho": 40,
+            "path_imagen":"./src/Resources/Images/Items/botiquin.png"
+        }
+    ],
+    "municion": [
+        {
+            "nombre": "caja municion",
+            "x": 650,
+            "y": 60,
+            "largo": 80,
+            "ancho": 80,
+            "path_imagen":"./src/Resources/Images/Items/municion.png"
+        }
+    ],
+    "bandera_enemiga": [
+        {
+            "nombre": "bandera enemiga",
+            "x": 600,
+            "y": 470,
+            "largo": 120,
+            "ancho": 100,
+            "path_imagen":"./src/Resources/Images/enemy flag/base enemiga.png"
+        }
+    ],
+    "coins": [
+        {
+            "nombre":"coins",
+            "x": 320,
+            "y": 570,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 390,
+            "y": 570,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 370,
+            "y": 480,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 500,
+            "y": 350,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 300,
+            "y": 260,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 80,
+            "y": 220,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 80,
+            "y": 120,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 360,
+            "y": 70,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 765,
+            "y": 330,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 765,
+            "y": 370,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 870,
+            "y": 120,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 870,
+            "y": 210,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 870,
+            "y": 310,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 980,
+            "y": 80,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 1110,
+            "y": 500,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        },
+        {
+            "nombre":"coins",
+            "x": 1110,
+            "y": 560,
+            "largo": 10,
+            "ancho": 20,
+            "path_imagen":"./src/Resources/Images/Items/dinero.png"
+        }
+    ]
+}
+
